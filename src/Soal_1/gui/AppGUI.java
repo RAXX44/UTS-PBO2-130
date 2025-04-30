@@ -1,6 +1,6 @@
-package gui;
+package Soal_1.gui;
 
-import model.*;
+import Soal_1.model.*;
 import javax.swing.*;
 import java.awt.*;
 import java.io.*;

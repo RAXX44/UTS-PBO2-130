@@ -1,4 +1,4 @@
-package model;
+package Soal_1.model;
 
 import java.io.*;
 import java.util.*;
